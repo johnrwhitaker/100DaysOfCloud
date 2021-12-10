@@ -24,13 +24,13 @@ Azure DevOps Engineer Expert
 ## Cloudskills.io: Microsoft Azure DevOps Engineer Certification AZ-400
 
 - [ ] ☁️ 1 > [Week 1](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [Week 2](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [Week 3](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [Week 4](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [Week 5](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [Week 6](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [Week 7](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [Week 8](Journey/008/Readme.md)
+- [ ] ☁️ 2 > Week 2 <!--[Week 2](Journey/002/Readme.md)-->
+- [ ] ☁️ 3 > Week 3 <!--[Week 3](Journey/003/Readme.md)-->
+- [ ] ☁️ 4 > Week 4 <!--[Week 4](Journey/004/Readme.md)-->
+- [ ] ☁️ 5 > Week 5 <!--[Week 5](Journey/005/Readme.md)-->
+- [ ] ☁️ 6 > Week 6 <!--[Week 6](Journey/006/Readme.md)-->
+- [ ] ☁️ 7 > Week 7 <!--[Week 7](Journey/007/Readme.md)-->
+- [ ] ☁️ 8 > Week 8 <!--[Week 8](Journey/008/Readme.md)-->
 
 ## TBD
 
