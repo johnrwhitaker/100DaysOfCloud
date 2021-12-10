@@ -14,6 +14,7 @@ Red Hat Certified Systems Administrator
 
 Certifications I'm planning on sitting for by the end of this challenge:
 
+Azure Security Engineer
 MS365 Identity and Access Administrator Associate  
 MS365 Enterprise Administrator Expert  
 Azure DevOps Engineer Expert
@@ -21,19 +22,16 @@ Azure DevOps Engineer Expert
 - [Follow me on Twitter @JohnRWhitaker](https://twitter.com/johnrwhitaker)
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/john-whitaker-0794582/)
 
-## Cloudskills.io: Microsoft Azure DevOps Engineer Certification AZ-400
+## Azure Security Engineer
 
 - [ ] ☁️ 1 > [Week 1](Journey/001/Readme.md)
-- [ ] ☁️ 2 > Week 2 <!--[Week 2](Journey/002/Readme.md)-->
-- [ ] ☁️ 3 > Week 3 <!--[Week 3](Journey/003/Readme.md)-->
-- [ ] ☁️ 4 > Week 4 <!--[Week 4](Journey/004/Readme.md)-->
-- [ ] ☁️ 5 > Week 5 <!--[Week 5](Journey/005/Readme.md)-->
-- [ ] ☁️ 6 > Week 6 <!--[Week 6](Journey/006/Readme.md)-->
-- [ ] ☁️ 7 > Week 7 <!--[Week 7](Journey/007/Readme.md)-->
-- [ ] ☁️ 8 > Week 8 <!--[Week 8](Journey/008/Readme.md)-->
-
-## TBD
-
+- [ ] ☁️ 2 > [](Journey/002/Readme.md)-->
+- [ ] ☁️ 3 > [](Journey/003/Readme.md)
+- [ ] ☁️ 4 > [](Journey/004/Readme.md)
+- [ ] ☁️ 5 > [](Journey/005/Readme.md)
+- [ ] ☁️ 6 > [](Journey/006/Readme.md)
+- [ ] ☁️ 7 > [](Journey/007/Readme.md)
+- [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 - [ ] ☁️ 11 > [](Journey/011/Readme.md)
@@ -42,6 +40,9 @@ Azure DevOps Engineer Expert
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [](Journey/016/Readme.md)
+
+## Cloudskills.io: Microsoft Azure DevOps Engineer Certification AZ-400
+
 - [ ] ☁️ 17 > [](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [](Journey/018/Readme.md)
 - [ ] ☁️ 19 > [](Journey/019/Readme.md)
@@ -50,6 +51,9 @@ Azure DevOps Engineer Expert
 - [ ] ☁️ 22 > [](Journey/022/Readme.md)
 - [ ] ☁️ 23 > [](Journey/023/Readme.md)
 - [ ] ☁️ 24 > [](Journey/024/Readme.md)
+
+## TBD
+
 - [ ] ☁️ 25 > [](Journey/025/Readme.md)
 - [ ] ☁️ 26 > [](Journey/026/Readme.md)
 - [ ] ☁️ 27 > [](Journey/027/Readme.md)
