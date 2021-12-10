@@ -8,14 +8,14 @@ I am a systems engineer with 18+ years of experience in server and application a
 
 I'm using this challenge to give me a structured method to expaind my cloud and DevOps skillset on Microsofts cloud platform. I already have several certifications and plan to work towards a few more throughout this challenge. My current certifications:
 
-Azure Foundations
-Azure Administrator Associate
+Azure Foundations  
+Azure Administrator Associate  
 Red Hat Certified Systems Administrator
 
 Certifications I'm planning on sitting for by the end of this challenge:
 
-MS365 Identity and Access Administrator Associate
-MS365 Enterprise Administrator Expert
+MS365 Identity and Access Administrator Associate  
+MS365 Enterprise Administrator Expert  
 Azure DevOps Engineer Expert
 
 - [Follow me on Twitter @JohnRWhitaker](https://twitter.com/johnrwhitaker)
