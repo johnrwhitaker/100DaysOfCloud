@@ -14,16 +14,24 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## John Whitaker's Cloud Journey
 
-[✍️ Introduce yourself]
+I am a systems engineer with 18+ years of experience in server and application administration. In my career I’ve worked with a wide array of technologies in various capacities including Windows Server, Red Hat Enterprise Linux, Active Directory, Systems Center Configuration Manager, desktops, servers, switches, routers and scripting.
 
-[✍️ Tell us why you started this challenge]
+I'm using this challenge to give me a structured method to expaind my cloud and DevOps skillset on Microsofts cloud platform. I already have several certifications and plan to work towards a few more throughout this challenge. My current certifications:
 
-[✍️ Tell us where you want to be at the end of the challenge]
+Azure Foundations
+Azure Administrator Associate
+Red Hat Certified Systems Administrator
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+Certifications I'm planning on sitting for by the end of this challenge:
+
+MS365 Identity and Access Administrator Associate
+MS365 Enterprise Administrator Expert
+Azure DevOps Engineer Expert
+
+- [Follow me on Twitter @JohnRWhitaker](https://twitter.com/johnrwhitaker)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/john-whitaker-0794582/)
 
 ## Stepping out the door
 
