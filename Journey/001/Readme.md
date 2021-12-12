@@ -64,7 +64,7 @@ Azure AD DS also includes multiple domain controllers, which are distributed acr
 
 Every user that needs access to resources needs to have a user account. You can view user accounts by going to the **All users** blade.
 
-![All users blade](Journey/001/5677D279-1AFE-47F7-BDD8-4C189EDC8F83.jpeg)
+![All users blade](https://github.com/johnrwhitaker/100DaysOfCloud/blob/ac8e851149488f1c8493815144945beb1d116786/Journey/001/5677D279-1AFE-47F7-BDD8-4C189EDC8F83.jpeg)
 
 ### Azure AD Groups
 
