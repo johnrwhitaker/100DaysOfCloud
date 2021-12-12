@@ -1,5 +1,5 @@
 **Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![Day 1 title image](https://github.com/johnrwhitaker/100DaysOfCloud/blob/1750596a73bf1b2daaedacf836599ad3f9bfd2bb/Journey/001/Untitled.jpg)
 
 # New post title here
 
