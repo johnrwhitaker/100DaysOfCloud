@@ -1,49 +1,46 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
-
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+# Implement Hybrid identity
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+Hybrid Identity is the process of connecting your on-premesis Active Directory with Azure Active Directory. This enables single sign-on for accessing both on-premesis and cloud based resources. This is done through Azure AD Connect. Azure AD Connect provides several features:
 
-## Try yourself
+- **Password hash synchronization**
+- **Pass-through authentication** allows the use of the same password on-premesis and in the cloud without the use of fedration
+- **Federation integration** optional, but can be connected with an on-premesis AD FS infrastructure
+- **Synchronization** creates users, groups and other objects and makes sure they are synched with the cloud
+- **Health monitoring** allows you to view the health of your connection in the Azure portal
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+### Authentication
 
-### Step 1 — Summary of Step
+There are two options:
 
-![Screenshot](https://via.placeholder.com/500x300)
+- **Cloud authentication** Azure AD handles authentication tasks using password hash synchronization and pass-through authentication
+- **Federated authentication** Azure AD hands authentication off to a trusted authentication platform, like an on-premesis AD FS environment
 
-### Step 1 — Summary of Step
+### Password Hash Synchronization (PHS)
 
-![Screenshot](https://via.placeholder.com/500x300)
+Synchs your on-premesis AD password hash with Azure AD so that you can use your on-premesis credentials with Azure services. This helps boost the productivity to users while also reducing help desk calls for password resets. The fewer passwords someone has to remember, the more likely they are to remember them.
 
-### Step 3 — Summary of Step
+The password hash is taken from the on-premesis AD environment, encrytped and then it is passed as a string to Azure AD. The string is then decrypted and stored as a user attribute for the user.
 
-![Screenshot](https://via.placeholder.com/500x300)
+This is known as **same sign-on** instead of **single sign-on** since the user is still technically signing into two different resources (on-premesis and cloud) but with the same credentials
 
-## ☁️ Cloud Outcome
+### Pass-Through Authentication (PTA)
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+Alternative to password hash syncronization. When a user signs in to Azure AD their credentials are validating directly with the on-premesis AD environment through a pass-through authentication agent. Usernames can be configured to use the on-premesis default username (userPrincipalName) or another attribute configured in Azure AD Connect. You can also install multiple agents to make sure that your that the environment that is servicing your sign-on requests is highly available.
 
-## Next Steps
+### Federation with Azure AD
 
-✍️ Describe what you think you think you want to do next.
+Federation is a collection of domains that have a trust relationship established. You can setup this kind of federation relationship between your on-premesis AD environment and Azure AD. This makes sure that all authentication tasks take place in your on-premesis environment and gives administrators more control over the environment.
+
+If you implement this, you can still setup password hash synchronization as a backup in case the connection between the federated envionrment and Azure AD goes down.
+
+### Password writeback
+
+Password writeback allows for password changes in the cloud to be written back to the on-premesis AD environment in real time, while enforcing on-premesis password policies. This applies for both user and admin password changes in the cloud.
 
 ## Social Proof
 
