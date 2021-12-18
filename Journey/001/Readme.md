@@ -1,5 +1,3 @@
-![Day 1 title image](https://github.com/johnrwhitaker/100DaysOfCloud/blob/1750596a73bf1b2daaedacf836599ad3f9bfd2bb/Journey/001/Untitled.jpg)
-
 # Secure Azure solutions with Azure Active Directory
 
 ## Introduction
