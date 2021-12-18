@@ -1,9 +1,4 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
 # Implement Hybrid identity
-
-## Cloud Research
 
 Hybrid Identity is the process of connecting your on-premesis Active Directory with Azure Active Directory. This enables single sign-on for accessing both on-premesis and cloud based resources. This is done through Azure AD Connect. Azure AD Connect provides several features:
 
@@ -44,6 +39,5 @@ Password writeback allows for password changes in the cloud to be written back t
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Twitter](https://twitter.com/johnrwhitaker/status/1472198143827709953?s=20)
+[LinkedIn](https://www.linkedin.com/posts/john-whitaker-0794582_implement-hybrid-identity-john-r-whitaker-activity-6877966502184808448-ocMB)
